@@ -1,14 +1,14 @@
-.no1,
-.no2 {
+.one, 
+.two{
     font-size: 28px;
-    font-family: Helvetica, "Times New Roman" , sans-serif;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.no1 {
-    color: white;
+.one {
     background-color: black;
+    color: white;
 }
 
-.no2 {
+.two{
     background-color: yellow;
 }
